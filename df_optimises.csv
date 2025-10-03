@@ -1,0 +1,3 @@
+model,rmse,mae,r2,best_params
+XGBR,4455.503126866793,2477.4474762141804,0.8330870791229824,"{'model__colsample_bytree': 1.0, 'model__learning_rate': 0.01, 'model__max_depth': 3, 'model__n_estimators': 500, 'model__subsample': 0.8}"
+RFR,4528.868472904418,2460.0253596128227,0.8275449692923601,"{'model__max_depth': 10, 'model__min_samples_leaf': 4, 'model__min_samples_split': 10, 'model__n_estimators': 200}"
